@@ -16,7 +16,7 @@ const Header = () => {
     <>
       <header className="navBar">
         <div className="icon">
-          <img src="img/socks-solid.svg"></img>
+          <img src="img/socks-solid.svg" alt="icon"></img>
         </div>
         <ul>{navBarMenu}</ul>
       </header>
